@@ -1,49 +1,63 @@
 <!-- Banner -->
 ![Hi! I'm Matthew Garcia](./Banner1.jpg)
 
+<!-- Header Name -->
+# <img src="https://media.giphy.com/media/j5iT3GqqBBu6UQbMva/giphy.gif" width="50"/> ʜɪ, ɪ'ᴍ ᴍᴀᴛᴛʜᴇᴡ ɢᴀʀᴄɪᴀ!  
+*Aspiring Computer Engineer | Hardware & Software Craftsman*  
+<br />
 
-<h2 align="left">Hi 👋! My name is Matthew Garcia and I'm a Computer Engineering Student passionate about hardware, software, and robotics from Baytown, Texas.</h2>
+---
 
-###
+I am a **Computer Engineering Student** passionate about **Robotics**, **Embedded Systems**, and **Hardware Development**. I love exploring how hardware and software integrate to build innovative solutions.
+
+✨ **Eternal Learner**: I believe every day is an opportunity to grow.  
+🌱 **Currently Learning**: Deepening my knowledge in VHDL, robotics, and advanced coding techniques.  
+🤖 **Robotics Enthusiast**: Working on projects to automate and innovate.  
+💻 **Skills**: C++, Python, VHDL, MATLAB, Embedded Systems, Arduino, and ROS.  
+
+---
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatthewGarcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatthewGarcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <h3>Languages & Tools</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" height="40" alt="VHDL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="40" alt="ROS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-###
-
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" height="30" alt="vhdl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embedded systems logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="30" alt="ros logo"  />
+<div align="center">
+  <h3>Software & Platforms</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
 </div>
 
-###
+<br />
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
 
-###
+---
 
-<br clear="both">
+### 🌟 **Connect with Me**
+- 📫 **Email**: [garciamatthew176@gmail.com](mailto:garciamatthew176@gmail.com)  
+- 💼 **LinkedIn**: [Matthew Garcia](https://www.linkedin.com/in/matthew-garcia-165634195/)  
+- 🚀 **Portfolio**: Coming soon!  
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+Let’s innovate and build the future together! 🚀
