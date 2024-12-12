@@ -56,6 +56,17 @@ I am a **Computer Engineering Student** passionate about **Robotics**, **Embedde
 ### 🤖 [SCARA Robot: A Robotic Arm for Precision Automation](https://github.com/yourusername/scara-robot)
 The **SCARA Robot** (Selective Compliance Assembly Robot Arm) is a project focused on creating a robotic arm capable of precise and efficient automation for industrial tasks.
 
+
+
+
+https://github.com/user-attachments/assets/4396a919-2353-4b3c-89cc-b7407e035c21
+
+
+
+
+
+
+
 - **Features**:
   - Precision movement for high-accuracy positioning.
   - Integrated sensors for real-time feedback.
@@ -69,7 +80,7 @@ The **SCARA Robot** (Selective Compliance Assembly Robot Arm) is a project focus
 
 ---
 
-### 🐾 [Intelligent Pet Care: Smart Bowl System](https://github.com/yourusername/intelligent-pet-care)
+### 🐾 [Intelligent Pet Care: Enhancing Autonomous Pet Feeding with the Smart Bowl System](https://github.com/yourusername/intelligent-pet-care)
 A smart pet bowl system that automates feeding schedules and tracks pet eating habits using sensors and microcontrollers.
 
 ![image](https://github.com/user-attachments/assets/8aebe4af-9fb5-4a71-9561-a0c7ecc552cd)
@@ -89,6 +100,12 @@ A smart pet bowl system that automates feeding schedules and tracks pet eating h
 
 ### 🐼 [Panda Robot: Advanced Motion Control System](https://github.com/yourusername/panda-robot)
 The **Panda Robot** project involves developing an advanced robotic arm capable of performing intricate and precise movements for industrial and research applications.
+
+
+
+https://github.com/user-attachments/assets/d567da86-3c32-45c8-9000-5579d1245e2d
+
+
 
 - **Features**:
   - Advanced kinematics for precise joint control.
