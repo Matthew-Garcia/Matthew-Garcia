@@ -51,9 +51,55 @@ I am a **Computer Engineering Student** passionate about **Robotics**, **Embedde
 
 ---
 
-## 🛠️ **Explore My Projects**
+## 🛠️ Projects
 
-Check out my projects [here](./PROJECTS.md)! 🚀
+### 🤖 [SCARA Robot: A Robotic Arm for Precision Automation](https://github.com/yourusername/scara-robot)
+The **SCARA Robot** (Selective Compliance Assembly Robot Arm) is a project focused on creating a robotic arm capable of precise and efficient automation for industrial tasks.
+
+- **Features**:
+  - Precision movement for high-accuracy positioning.
+  - Integrated sensors for real-time feedback.
+  - Path planning algorithms for motion optimization.
+  - ROS2 integration for real-time monitoring and control.
+
+- **Technologies Used**:
+  - **Languages**: Python, C++
+  - **Tools**: ROS2, Gazebo Simulator, Arduino IDE
+  - **Hardware**: Servo Motors, Microcontroller (Arduino/STM32), Sensors
+
+---
+
+### 🐾 [Intelligent Pet Care: Smart Bowl System](https://github.com/yourusername/intelligent-pet-care)
+A smart pet bowl system that automates feeding schedules and tracks pet eating habits using sensors and microcontrollers.
+
+![image](https://github.com/user-attachments/assets/8aebe4af-9fb5-4a71-9561-a0c7ecc552cd)
+
+
+- **Features**:
+  - Automated portion control and feeding schedules.
+  - Notifications for refill and maintenance needs.
+  - User-friendly design for seamless interaction.
+
+- **Technologies Used**:
+  - **Languages**: Python, C++
+  - **Tools**: Arduino IDE, Embedded C
+  - **Hardware**: Weight sensors, Microcontroller, Servo motors
+
+---
+
+### 🐼 [Panda Robot: Advanced Motion Control System](https://github.com/yourusername/panda-robot)
+The **Panda Robot** project involves developing an advanced robotic arm capable of performing intricate and precise movements for industrial and research applications.
+
+- **Features**:
+  - Advanced kinematics for precise joint control.
+  - Integrated vision system for object detection and interaction.
+  - Real-time motion planning and control with ROS.
+
+- **Technologies Used**:
+  - **Languages**: Python, C++
+  - **Tools**: ROS2, MoveIt, Gazebo Simulator
+  - **Hardware**: Panda robotic arm model, Cameras, and Sensors
+
 
 ---
 
