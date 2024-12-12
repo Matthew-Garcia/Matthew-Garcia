@@ -30,7 +30,7 @@ I am a **Computer Engineering Student** passionate about **Robotics**, **Embedde
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
-    <img src="./image.png" height="40" alt="VHDL" />
+    <img src="./VHDL.png" height="40" alt="VHDL" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="40" alt="ROS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -48,6 +48,12 @@ I am a **Computer Engineering Student** passionate about **Robotics**, **Embedde
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   </p>
 </div>
+
+---
+
+## 🛠️ **Explore My Projects**
+
+Check out my projects [here](./PROJECTS.md)! 🚀
 
 ---
 
