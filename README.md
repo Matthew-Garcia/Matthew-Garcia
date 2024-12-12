@@ -1,3 +1,7 @@
+<!-- Banner -->
+![Hi! I'm Matthew Garcia](./Banner1.jpg)
+
+
 <h2 align="left">Hi 👋! My name is Matthew Garcia and I'm a Computer Engineering Student passionate about hardware, software, and robotics from Baytown, Texas.</h2>
 
 ###
