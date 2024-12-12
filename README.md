@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Matthew Garcia Banner]![Banner](https://github.com/user-attachments/assets/381530b6-760f-4209-9d1f-1b2d866240c5)
+[Banner](https://github.com/user-attachments/assets/381530b6-760f-4209-9d1f-1b2d866240c5)
 
 
 <!-- Profile Picture -->
