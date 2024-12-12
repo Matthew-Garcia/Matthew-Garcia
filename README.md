@@ -10,10 +10,10 @@
 
 I am a **Computer Engineering Student** passionate about **Robotics**, **Embedded Systems**, and **Hardware Development**. I love exploring how hardware and software integrate to build innovative solutions.
 
-✨ **Eternal Learner**: I believe every day is an opportunity to grow.  
-🌱 **Currently Learning**: Deepening my knowledge in VHDL, robotics, and advanced coding techniques.  
-🤖 **Robotics Enthusiast**: Working on projects to automate and innovate.  
-💻 **Skills**: C++, Python, VHDL, MATLAB, Embedded Systems, Arduino, and ROS.  
+• ✨ **Eternal Learner**: I believe every day is an opportunity to grow.  
+• 🌱 **Currently Learning**: Deepening my knowledge in VHDL, robotics, and advanced coding techniques.  
+• 🤖 **Robotics Enthusiast**: Working on projects to automate and innovate.  
+• 💻 **Skills**: C++, Python, VHDL, MATLAB, Embedded Systems, Arduino, and ROS.  
 
 ---
 
