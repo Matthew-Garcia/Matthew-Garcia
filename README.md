@@ -20,9 +20,6 @@ I am a **Computer Engineering Student** passionate about **Robotics**, **Embedde
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
 
-<div align="center">
-  <img src="./Skills_Animation_White.gif" alt="Skills Animation" width="400" />
-</div>
 
 <h3>Languages & Tools</h3>
 <p>
